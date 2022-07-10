@@ -1,4 +1,5 @@
 *这份资料来源于ibm俱乐部的老学长张睿师兄*
+> github网站 https://github.com/onexLiao/SCUTmaterial
 
 
 # 华工软院历年试卷
